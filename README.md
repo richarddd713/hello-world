@@ -1,3 +1,3 @@
 # hello-world
 first repo
-Richardson De Leon
+Richardson De Leonexample of edit and commit
